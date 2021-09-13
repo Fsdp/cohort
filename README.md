@@ -1,4 +1,4 @@
-# Cohort-Based Learning Platfomr
+# Cohort-Based Learning Platform
 
 ⚡ Building a [Cohort-Based Courses Platform](https://www.teachfloor.com/)<br />
 ℹ️ [Cohort-Based Learning Resources](https://blog.teachfloor.com/)<br />

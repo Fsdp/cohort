@@ -1,7 +1,7 @@
 # Cohort-Based Learning Platform
 
-⚡ <br /> Building a [Cohort-Based Courses Platform](https://www.teachfloor.com/)<br />
-ℹ️ <br /> [Cohort-Based Learning Resources](https://blog.teachfloor.com/)<br />
+⚡ &nbsp; Building a [Cohort-Based Courses Platform](https://www.teachfloor.com/)<br />
+ℹ️ &nbsp; [Cohort-Based Learning Resources](https://blog.teachfloor.com/)<br />
 
 🔝 Top articles about Cohort-Based Learning Methodology:
 

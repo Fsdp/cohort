@@ -1,6 +1,6 @@
 # Cohort-Based Learning Platform
 
-⚡ &nbsp; Building a [Cohort-Based Courses Platform](https://www.teachfloor.com/)<br />
+⚡&nbsp; Building a [Cohort-Based Courses Platform](https://www.teachfloor.com/)<br />
 ℹ️ &nbsp; [Cohort-Based Learning Resources](https://blog.teachfloor.com/)<br />
 
 🔝 Top articles about Cohort-Based Learning Methodology:
@@ -15,7 +15,7 @@
 [Corporate Training: How to Apply Cohort-based Learning?](https://blog.teachfloor.com/corporate-training-how-to-apply-cohort-based-learning/)<br />
 [The Creator Economy: The New Flywheel for the Next Online Economic Wave](https://blog.teachfloor.com/the-creator-economy-the-new-flywheel-for-the-next-online-economic-wave/)<br />
 
-👉 Other Resources
+👉 &nbsp; Other Resources
 [Cohort vs. Self-Paced Learning](https://online.wharton.upenn.edu/blog/cohort-vs-self-paced-learning/)<br />
 [11 Best Cohort based Course Platforms to ace your skills](https://logicranks.com/blog/best-cohort-based-course-platforms-to-ace-your-skills/)<br />
 [The 5 Best Platforms to Create Your Cohort Based Online Course](https://medium.com/swlh/the-4-best-platforms-to-create-your-cohort-based-online-course-96de7d2906ff)

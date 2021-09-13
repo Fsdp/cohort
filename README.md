@@ -5,8 +5,8 @@
 
 🔝 Top articles about Cohort-Based Learning Methodology:
 
-[The evolution of online education: from MOOC to Cohort-Based Courses](https://blog.teachfloor.com/evolution-online-education-cohort-based-courses/)
-[Cohort Based Course: the complete guide 2021](https://blog.teachfloor.com/cohort-based-course-the-complete-guide-2021/)
+[The evolution of online education: from MOOC to Cohort-Based Courses](https://blog.teachfloor.com/evolution-online-education-cohort-based-courses/)<br />
+[Cohort Based Course: the complete guide 2021](https://blog.teachfloor.com/cohort-based-course-the-complete-guide-2021/)<br />
 [8 Best Cohort Based Courses of 2021](https://blog.teachfloor.com/8-best-cohort-based-courses-of-2021/)
 [How to Strategize Pricing for Your Cohort-Based Courses](https://blog.teachfloor.com/pricing-strategies-for-your-cohort-based-courses/)
 [Peer Learning – The Future of Online Education](https://blog.teachfloor.com/peer-learning-the-future-of-online-education/)
